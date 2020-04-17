@@ -1,0 +1,97 @@
+<style>
+    /* USED IN BODY DIV */
+  .sasa-body {
+    width: 95%;
+    font-family: verdana, arial, sans-serif;
+    color: black;
+    background-color: white;
+    text-align: left;
+    font-size: calc(16px + 0.5vw);
+    font-weight: 400;
+   
+  }
+
+/* USED IN MAIN HEADER */
+  .sasa-h1 {
+    color: navy;
+    font-size: calc(18px + 0.85vw);
+    font-weight: 700;
+    background-color: lightgray;
+width: 95%;
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    margin: 1px;
+    padding: 3px;
+    }
+
+  /* USED IN SUB HEADER */
+  .sasa-h2 {
+    color: navy;
+    font-size: calc(14px + 0.8vw);
+    font-weight: 700;
+width: 95%;
+    text-align: center;
+    text-transform: capitalize;
+    margin: 5px;
+    padding: 3px;
+    font-variant: normal;
+    font-style: normal;
+  }
+
+/* USED IN DESC LISTING HEADERS */
+  
+  .sasa-h3 {
+    color: navy;
+    font-family: helvetica, arial, sans-serif;
+    font-size: .7em;
+    font-weight: 700;
+    text-transform: capitalize;
+    text-align: left;
+    margin: 5px;
+    padding: 3px;
+    text-decoration: underline;
+    letter-spacing: 1px;
+    width: 95%;
+  }
+
+
+/* USED DESC LISTING BULLETS */
+  .sasa-ul1 {
+    color: black;
+    font-size: .7em;
+    font-weight: 400;
+width: 95%;
+    text-align: left;
+
+    list-style-type: disc;
+    list-style-position: outside;
+  }
+
+  /* USED IN STORE POLICY BULLETS */
+  .sasa-ul2 {
+    color: black;
+    font-size: .7em;
+    font-weight: 400;
+ width: 95%;
+    text-align: left;
+
+    list-style-type: none;
+    list-style-position: outside;
+  }
+ 
+  /* USED IN STORE LINK BUYER INFO */
+.sasa-p2 {
+
+color: #000; 
+font-size: .65em;
+font-weight: 700;
+ width: 95%;
+text-align: center;
+background-color: lightgray; 
+margin: 1px;
+padding: 3px;
+width: 90%;
+}
+
+  </style>
